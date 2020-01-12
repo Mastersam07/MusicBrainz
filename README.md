@@ -2,6 +2,8 @@
 
 Mobile client for the MusicBrainz API
 
+[![Codemagic build status](https://api.codemagic.io/apps/5e1b5ea9d24ec401251955d3/5e1b5ea9d24ec401251955d2/status_badge.svg)](https://codemagic.io/apps/5e1b5ea9d24ec401251955d3/5e1b5ea9d24ec401251955d2/latest_build)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

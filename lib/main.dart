@@ -6,6 +6,8 @@ void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     home: SplashScreen(),
+    title: 'MusicBrainz',
+    color: Colors.white,
   ));
 }
 
