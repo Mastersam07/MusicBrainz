@@ -22,6 +22,16 @@ code, is used by developers and organizations around the world, and is free
 and open source.
 > **Note:** This project is under development and should not be used.
 
+## Why Flutter
+
+We think Flutter will help you create beautiful, fast apps, with a productive,
+extensible and open development model.
+
+* Beautiful user experience
+* Fast results
+* Productive development
+* Extensible and open model
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -34,3 +44,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<a href="./app-release.apk"><img src="https://www.designpieces.com/wp-content/uploads/2016/02/google-play-badge.png" width="200"></img></a>
+<a href="./runner.app"><img src="https://www.designpieces.com/wp-content/uploads/2016/02/download-on-the-app-store.png" width="200"></img></a>
