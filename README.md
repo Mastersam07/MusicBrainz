@@ -1,5 +1,3 @@
-# MusicBraniz
-
 <p align="center"><a href="https://musicbrainz.org/" target="_blank"><img src="https://staticbrainz.org/MB/header-logo-791fb3f.svg" width="400"></a></p>
 
 <p align="center">
