@@ -4,7 +4,7 @@
 <a href="https://codemagic.io/apps/5e1b5ea9d24ec401251955d3/5e1b5ea9d24ec401251955d2/latest_build"><img src="https://api.codemagic.io/apps/5e1b5ea9d24ec401251955d3/5e1b5ea9d24ec401251955d2/status_badge.svg" alt="Build Status"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
 <a href="https://community.metabrainz.org/c/musicbrainz/6"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Community"></a>
-<a href="https://twitter.com/MusicBrainz"><img src="https://img.shields.io/twitter/follow/MusicBrainz.svg?style=social" alt="Follow on twitter"></a>
+<a href="https://twitter.com/intent/follow?screen_name=MusicBrainz"><img src="https://img.shields.io/twitter/follow/MusicBrainz.svg?style=social&label=Follow" alt="Follow on twitter"></a>
 </p>
 
 
